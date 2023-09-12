@@ -5,4 +5,10 @@
   #r-container {
     width: calc(100% - 150px);
   }
+
+  .nav-bar-body-lf {
+    width: 100%;
+  }
+
+
 }
