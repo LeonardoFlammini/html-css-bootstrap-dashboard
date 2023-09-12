@@ -15,12 +15,13 @@
 }
 
 #aside {
-  width: 150px;
+  width: 70px;
   height: calc(100vh - 70px);
+  padding: 20px 0 30px 20px;
 }
 
 #r-container{
-  width: calc(100% - 150px);
+  width: calc(100% - 70px);
   height: calc(100vh - 70px);
 }
 
